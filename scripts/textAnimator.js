@@ -1,8 +1,8 @@
 function LetterFlowingTextAnimator() {
   var words = [
-      "MERN Stack Developer",
-      "React Js Developer",
-      "Full Stack Developer",
+      "Front-end Developer",
+      "UI/UX Developer",
+      "UI Designer",
     ],
     part,
     i = 0,
